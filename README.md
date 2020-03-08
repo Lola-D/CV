@@ -9,8 +9,8 @@ En formation pour préparer le titre professionnel "**Développeur Web et Web Mo
 ### Formation
 **Wild Code School** | _de mars à août 2020 à Paris_ |
 > Développeur Web et Web Mobile
-Langages étudiés : JavaScript, Node.js, HTML5, CSS3
-Framework : React, Bootstrap
+>Langages étudiés : JavaScript, Node.js, HTML5, CSS3
+>Framework : React, Bootstrap
 
 **The Hacking Project** | _de janvier à mars 2020 à Paris_ |
 >Langages étudiés : Ruby, HTML5, CSS3
