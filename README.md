@@ -1,4 +1,4 @@
-![Image of Yaktocat](lola01.jpg){:height="50%" width="50%"}
+
 # Lola Donval
 
 [LinkedIn](https://www.linkedin.com/in/lola-donval) | [Github](https://github.com/Lola-D)
