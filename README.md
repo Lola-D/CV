@@ -1,3 +1,5 @@
+![profil picture](/WCS/lola01.jpg)
+Format: ![Alt Text](url)
 # Lola Donval
 
 [LinkedIn](https://www.linkedin.com/in/lola-donval) | [Github](https://github.com/Lola-D)
