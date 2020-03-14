@@ -1,4 +1,6 @@
 
+![alt text][lola01.jpg]
+
 # Lola Donval
 
 [LinkedIn](https://www.linkedin.com/in/lola-donval) | [Github](https://github.com/Lola-D)
